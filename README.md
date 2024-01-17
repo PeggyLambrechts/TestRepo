@@ -1,2 +1,3 @@
 # TestRepo
-test repository Data Analytics
+My name is Peggy Lambrechts
+This is my test repository Data Analytics
